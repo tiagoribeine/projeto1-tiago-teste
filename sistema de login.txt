@@ -1,5 +1,6 @@
 digite seu e-mail
 digite sua senha
+digite sua idade
 
 
 aqui temos uma alteração
